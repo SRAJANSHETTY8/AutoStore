@@ -1,0 +1,1602 @@
+[
+  {
+    "external_id": "CH-1078",
+    "sku": "CAR-1012",
+    "name": "Wiper Blade Set (OEM) \u2014 Hyundai Creta",
+    "price": 745,
+    "stock": 122,
+    "category": "Car Care & Accessories / Spares"
+  },
+  {
+    "external_id": "CH-1117",
+    "sku": "ELE-1016",
+    "name": "LED Indicator Set \u2014 KTM Duke 200",
+    "price": 365,
+    "stock": 136,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1022",
+    "sku": "CAR-1022",
+    "name": "Car Seat Cover Set \u2014 Mahindra Thar",
+    "price": 2525,
+    "stock": 5,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1178",
+    "sku": "CAR-EXT-5940",
+    "name": "Car Floor Mat Set \u2014 Yamaha FZ",
+    "price": 1795,
+    "stock": 292,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1125",
+    "sku": "BDY-1072",
+    "name": "Windscreen Visor \u2014 Bajaj Dominar 400",
+    "price": 1700,
+    "stock": 316,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1034",
+    "sku": "ACC-1012",
+    "name": "Tyre Inflator \u2014 Universal",
+    "price": 3030,
+    "stock": 11,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1055",
+    "sku": "FIL-1005",
+    "name": "Air Filter \u2014 Hero Splendor Plus",
+    "price": 715,
+    "stock": 143,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1066",
+    "sku": "CHN-1017",
+    "name": "Drive Chain \u2014 TVS Apache RTR 200",
+    "price": 1120,
+    "stock": 418,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1139",
+    "sku": "GRP-1027",
+    "name": "Bar End Set \u2014 KTM Duke 390",
+    "price": 1380,
+    "stock": 271,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1008",
+    "sku": "GER-1017",
+    "name": "Balaclava \u2014 Universal",
+    "price": 780,
+    "stock": 11,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1090",
+    "sku": "BDY-1017",
+    "name": "Crash Guard \u2014 Bajaj Pulsar 150",
+    "price": 1865,
+    "stock": 160,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1046",
+    "sku": "BDY-1010",
+    "name": "Side Mirror Set \u2014 Honda Unicorn",
+    "price": 1655,
+    "stock": 252,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1002",
+    "sku": "CHN-1045",
+    "name": "Clutch Plate Set \u2014 Yamaha MT-15",
+    "price": 775,
+    "stock": 0,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1073",
+    "sku": "ACC-1009",
+    "name": "Bike Body Cover \u2014 Universal",
+    "price": 2450,
+    "stock": 52,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1187",
+    "sku": "FIL-EXT-6454",
+    "name": "Fuel Filter \u2014 TVS Apache RTR 160",
+    "price": 565,
+    "stock": 159,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1155",
+    "sku": "BDY-1077",
+    "name": "Windscreen Visor \u2014 Yamaha MT-15",
+    "price": 1775,
+    "stock": 458,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1024",
+    "sku": "GER-1008",
+    "name": "Riding Gloves \u2014 Universal",
+    "price": 3590,
+    "stock": 129,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1023",
+    "sku": "BDY-1048",
+    "name": "Tail Tidy \u2014 Royal Enfield Classic 350",
+    "price": 2615,
+    "stock": 321,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1151",
+    "sku": "BRK-1026",
+    "name": "Brake Shoe Set \u2014 Royal Enfield Meteor 350",
+    "price": 385,
+    "stock": 437,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1144",
+    "sku": "ELE-1065",
+    "name": "Spark Plug \u2014 Royal Enfield Classic 350",
+    "price": 710,
+    "stock": 80,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1017",
+    "sku": "ELE-1032",
+    "name": "Tail Light Assembly \u2014 Honda CB Shine",
+    "price": 2490,
+    "stock": 172,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1064",
+    "sku": "GRP-1006",
+    "name": "Handle Grip Set \u2014 Suzuki Gixxer",
+    "price": 290,
+    "stock": 8,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1050",
+    "sku": "TYR-1009",
+    "name": "Tubeless Tyre \u2014 Honda Unicorn",
+    "price": 3435,
+    "stock": 324,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1067",
+    "sku": "BRK-1080",
+    "name": "Brake Shoe Set \u2014 Royal Enfield Meteor 350",
+    "price": 455,
+    "stock": 189,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1071",
+    "sku": "BDY-1071",
+    "name": "Windscreen Visor \u2014 Yamaha MT-15",
+    "price": 3600,
+    "stock": 197,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1165",
+    "sku": "ELE-1042",
+    "name": "Tail Light Assembly \u2014 Royal Enfield Classic 350",
+    "price": 1625,
+    "stock": 239,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1047",
+    "sku": "GRP-1057",
+    "name": "Throttle Cable \u2014 Bajaj Pulsar 220F",
+    "price": 515,
+    "stock": 268,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1020",
+    "sku": "FIL-1040",
+    "name": "Air Filter \u2014 Honda Hornet 2.0",
+    "price": 1355,
+    "stock": 0,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1100",
+    "sku": "TYR-1016",
+    "name": "Tube \u2014 Royal Enfield Classic 350",
+    "price": 425,
+    "stock": 241,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1010",
+    "sku": "ELE-1097",
+    "name": "LED Indicator Set \u2014 KTM Duke 200",
+    "price": 635,
+    "stock": 3,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1111",
+    "sku": "CAR-1033",
+    "name": "Car Air Freshener \u2014 Universal",
+    "price": 725,
+    "stock": 271,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1161",
+    "sku": "CHN-1039",
+    "name": "Clutch Plate Set \u2014 Hero Splendor Plus",
+    "price": 1955,
+    "stock": 335,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1052",
+    "sku": "CHN-1034",
+    "name": "Clutch Cable \u2014 TVS Apache RTR 160",
+    "price": 310,
+    "stock": 400,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1094",
+    "sku": "BRK-1068",
+    "name": "Brake Cable \u2014 Honda Hornet 2.0",
+    "price": 355,
+    "stock": 162,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1075",
+    "sku": "BDY-1031",
+    "name": "Crash Guard \u2014 Hero Xtreme 160R",
+    "price": 3725,
+    "stock": 449,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1188",
+    "sku": "ELE-EXT-5556",
+    "name": "Spark Plug \u2014 Royal Enfield Meteor 350",
+    "price": 620,
+    "stock": 77,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1110",
+    "sku": "CAR-1001",
+    "name": "Car Floor Mat Set \u2014 Maruti Swift",
+    "price": 3075,
+    "stock": 278,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1040",
+    "sku": "BRK-1018",
+    "name": "Brake Shoe Set \u2014 KTM Duke 200",
+    "price": 240,
+    "stock": 429,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1058",
+    "sku": "BRK-1016",
+    "name": "Brake Shoe Set \u2014 Honda CB Shine",
+    "price": 265,
+    "stock": 417,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1012",
+    "sku": "OIL-1006",
+    "name": "Fork Oil 500ml \u2014 Universal",
+    "price": 540,
+    "stock": 76,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1003",
+    "sku": "CHN-1046",
+    "name": "Clutch Plate Set \u2014 Bajaj Pulsar 150",
+    "price": 2755,
+    "stock": 458,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1080",
+    "sku": "ELE-1064",
+    "name": "Spark Plug \u2014 Bajaj Pulsar 220F",
+    "price": 490,
+    "stock": 60,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1015",
+    "sku": "GER-1006",
+    "name": "Riding Gloves (OEM) \u2014 Universal",
+    "price": 1340,
+    "stock": 5,
+    "category": "Rider Gear / Spares"
+  },
+  {
+    "external_id": "CH-1092",
+    "sku": "BDY-1037",
+    "name": "Tank Pad \u2014 Royal Enfield Himalayan",
+    "price": 525,
+    "stock": 153,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1048",
+    "sku": "ELE-1087",
+    "name": "Tail Light Assembly \u2014 Bajaj Pulsar 220F",
+    "price": 1775,
+    "stock": 351,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1105",
+    "sku": "CAR-1003",
+    "name": "Car Floor Mat Set (OEM) \u2014 Hyundai i20",
+    "price": 2085,
+    "stock": 103,
+    "category": "Car Care & Accessories / Spares"
+  },
+  {
+    "external_id": "CH-1004",
+    "sku": "ELE-1077",
+    "name": "Battery \u2014 Royal Enfield Meteor 350",
+    "price": 3005,
+    "stock": 414,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1138",
+    "sku": "BDY-1043",
+    "name": "Tank Pad \u2014 TVS Apache RTR 200",
+    "price": 360,
+    "stock": 52,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1134",
+    "sku": "GRP-1060",
+    "name": "Foot Peg Set \u2014 Hero Splendor Plus",
+    "price": 1280,
+    "stock": 213,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1021",
+    "sku": "BRK-1005",
+    "name": "Brake Pad Set \u2014 Hero Splendor Plus",
+    "price": 1220,
+    "stock": 0,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1179",
+    "sku": "ELE-EXT-4729",
+    "name": "LED Indicator Set \u2014 Hero Xtreme 160R",
+    "price": 720,
+    "stock": 151,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1193",
+    "sku": "ACC-EXT-8194",
+    "name": "USB Charger Mount \u2014 Universal",
+    "price": 1390,
+    "stock": 240,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1065",
+    "sku": "CAR-1002",
+    "name": "Car Floor Mat Set \u2014 Maruti Baleno",
+    "price": 3000,
+    "stock": 351,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1163",
+    "sku": "TYR-1034",
+    "name": "Tubeless Tyre \u2014 TVS Apache RTR 160",
+    "price": 5690,
+    "stock": 235,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1056",
+    "sku": "GRP-1034",
+    "name": "Foot Peg Set \u2014 Royal Enfield Meteor 350",
+    "price": 670,
+    "stock": 363,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1184",
+    "sku": "ACC-EXT-4583",
+    "name": "Tyre Inflator \u2014 Universal",
+    "price": 3555,
+    "stock": 225,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1195",
+    "sku": "CAR-EXT-2246",
+    "name": "Dashboard Camera \u2014 Bajaj Pulsar 220F",
+    "price": 3975,
+    "stock": 18,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1114",
+    "sku": "ELE-1057",
+    "name": "Horn Set \u2014 Bajaj Pulsar 150",
+    "price": 1155,
+    "stock": 3,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1112",
+    "sku": "ELE-1048",
+    "name": "Horn Set \u2014 Bajaj Pulsar NS200",
+    "price": 1015,
+    "stock": 238,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1060",
+    "sku": "ACC-1003",
+    "name": "USB Charger Mount \u2014 Universal",
+    "price": 360,
+    "stock": 60,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1104",
+    "sku": "CAR-1025",
+    "name": "Dashboard Camera \u2014 Maruti Swift",
+    "price": 6370,
+    "stock": 79,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1086",
+    "sku": "GER-1013",
+    "name": "Riding Jacket \u2014 Universal",
+    "price": 5340,
+    "stock": 195,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1001",
+    "sku": "BRK-1090",
+    "name": "Brake Cable \u2014 Honda Unicorn",
+    "price": 245,
+    "stock": 318,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1127",
+    "sku": "BRK-1076",
+    "name": "Brake Cable \u2014 Bajaj Pulsar NS200",
+    "price": 405,
+    "stock": 434,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1083",
+    "sku": "ELE-1012",
+    "name": "LED Headlight \u2014 Bajaj Pulsar NS200",
+    "price": 2390,
+    "stock": 195,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1061",
+    "sku": "BDY-1056",
+    "name": "Tail Tidy \u2014 Royal Enfield Himalayan",
+    "price": 1705,
+    "stock": 239,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1043",
+    "sku": "OIL-1003",
+    "name": "Engine Oil 10W30 1L \u2014 Universal",
+    "price": 640,
+    "stock": 0,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1183",
+    "sku": "BDY-EXT-9009",
+    "name": "Crash Guard \u2014 Tata Nexon",
+    "price": 1260,
+    "stock": 48,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1013",
+    "sku": "ELE-1101",
+    "name": "Tail Light Assembly \u2014 Honda Hornet 2.0",
+    "price": 1795,
+    "stock": 134,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1194",
+    "sku": "BDY-EXT-0743",
+    "name": "Tank Pad \u2014 Bajaj Pulsar 220F",
+    "price": 265,
+    "stock": 279,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1030",
+    "sku": "FIL-1047",
+    "name": "Air Filter \u2014 Honda Unicorn",
+    "price": 1130,
+    "stock": 7,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1119",
+    "sku": "FIL-1042",
+    "name": "Air Filter \u2014 Royal Enfield Meteor 350",
+    "price": 240,
+    "stock": 373,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1128",
+    "sku": "BDY-1028",
+    "name": "Crash Guard \u2014 Suzuki Gixxer",
+    "price": 855,
+    "stock": 422,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1171",
+    "sku": "CAR-EXT-1762",
+    "name": "Wiper Blade Set \u2014 Kia Seltos",
+    "price": 1540,
+    "stock": 140,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1124",
+    "sku": "CAR-1027",
+    "name": "Dashboard Camera \u2014 Hyundai i20",
+    "price": 5805,
+    "stock": 460,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1031",
+    "sku": "BRK-1044",
+    "name": "Brake Disc Rotor \u2014 KTM Duke 200",
+    "price": 2705,
+    "stock": 184,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1076",
+    "sku": "CHN-1020",
+    "name": "Drive Chain \u2014 Yamaha MT-15",
+    "price": 1720,
+    "stock": 36,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1164",
+    "sku": "FIL-1024",
+    "name": "Fuel Filter \u2014 Bajaj Dominar 400",
+    "price": 450,
+    "stock": 115,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1018",
+    "sku": "CAR-1028",
+    "name": "Dashboard Camera \u2014 Hyundai Creta",
+    "price": 9275,
+    "stock": 451,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1196",
+    "sku": "ELE-EXT-5457",
+    "name": "Horn Set \u2014 Hyundai i20",
+    "price": 1445,
+    "stock": 101,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1175",
+    "sku": "GRP-EXT-0742",
+    "name": "Foot Peg Set \u2014 Royal Enfield Meteor 350",
+    "price": 1675,
+    "stock": 120,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1035",
+    "sku": "BRK-1006",
+    "name": "Brake Pad Set \u2014 Bajaj Pulsar NS200",
+    "price": 1370,
+    "stock": 400,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1069",
+    "sku": "BRK-1033",
+    "name": "Brake Disc Rotor \u2014 Yamaha MT-15",
+    "price": 2520,
+    "stock": 62,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1026",
+    "sku": "TYR-1023",
+    "name": "Tube \u2014 TVS Apache RTR 160",
+    "price": 880,
+    "stock": 0,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1028",
+    "sku": "OIL-1005",
+    "name": "Engine Oil 20W40 1L \u2014 Universal",
+    "price": 800,
+    "stock": 393,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1109",
+    "sku": "BRK-1048",
+    "name": "Brake Lever \u2014 Yamaha FZ",
+    "price": 665,
+    "stock": 399,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1033",
+    "sku": "GER-1001",
+    "name": "Full Face Helmet \u2014 Universal",
+    "price": 2845,
+    "stock": 390,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1186",
+    "sku": "OIL-EXT-2109",
+    "name": "Engine Oil 20W40 1L \u2014 Universal",
+    "price": 420,
+    "stock": 292,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1057",
+    "sku": "TYR-1035",
+    "name": "Tubeless Tyre \u2014 Hero Xtreme 160R",
+    "price": 3010,
+    "stock": 318,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1096",
+    "sku": "FIL-1010",
+    "name": "Air Filter \u2014 Bajaj Pulsar NS200",
+    "price": 935,
+    "stock": 90,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1011",
+    "sku": "ELE-1054",
+    "name": "Horn Set \u2014 Bajaj Dominar 400",
+    "price": 1315,
+    "stock": 273,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1103",
+    "sku": "ACC-1010",
+    "name": "Bike Body Cover \u2014 Universal",
+    "price": 765,
+    "stock": 338,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1006",
+    "sku": "ELE-1066",
+    "name": "Spark Plug \u2014 Yamaha R15",
+    "price": 750,
+    "stock": 206,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1197",
+    "sku": "BDY-EXT-7762",
+    "name": "Windscreen Visor \u2014 Mahindra Thar",
+    "price": 2145,
+    "stock": 166,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1019",
+    "sku": "ELE-1046",
+    "name": "Horn Set \u2014 Royal Enfield Classic 350",
+    "price": 1275,
+    "stock": 242,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1166",
+    "sku": "GRP-1068",
+    "name": "Handle Grip Set \u2014 Royal Enfield Himalayan",
+    "price": 1385,
+    "stock": 251,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1051",
+    "sku": "TYR-1033",
+    "name": "Tube \u2014 Royal Enfield Meteor 350",
+    "price": 445,
+    "stock": 8,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1192",
+    "sku": "TYR-EXT-6577",
+    "name": "Tube \u2014 Hero Splendor Plus",
+    "price": 515,
+    "stock": 124,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1070",
+    "sku": "GRP-1049",
+    "name": "Throttle Cable \u2014 Royal Enfield Himalayan",
+    "price": 500,
+    "stock": 67,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1189",
+    "sku": "BRK-EXT-5991",
+    "name": "Brake Lever \u2014 Hero Xtreme 160R",
+    "price": 1020,
+    "stock": 253,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1074",
+    "sku": "GRP-1004",
+    "name": "Handle Grip Set \u2014 KTM Duke 200",
+    "price": 1395,
+    "stock": 307,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1141",
+    "sku": "FIL-1050",
+    "name": "Fuel Filter \u2014 TVS Apache RTR 200",
+    "price": 350,
+    "stock": 470,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1116",
+    "sku": "BDY-1009",
+    "name": "Side Mirror Set \u2014 TVS Apache RTR 160",
+    "price": 405,
+    "stock": 0,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1169",
+    "sku": "ELE-1095",
+    "name": "LED Indicator Set \u2014 TVS Apache RTR 200",
+    "price": 1360,
+    "stock": 221,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1093",
+    "sku": "BRK-1052",
+    "name": "Brake Lever \u2014 Hero Splendor Plus",
+    "price": 1100,
+    "stock": 166,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1102",
+    "sku": "BRK-1059",
+    "name": "Brake Cable \u2014 Bajaj Pulsar 220F",
+    "price": 215,
+    "stock": 450,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1142",
+    "sku": "BRK-1054",
+    "name": "Brake Lever \u2014 Yamaha MT-15",
+    "price": 865,
+    "stock": 347,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1200",
+    "sku": "BRK-EXT-9933",
+    "name": "Brake Pad Set \u2014 TVS Apache RTR 200",
+    "price": 545,
+    "stock": 135,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1185",
+    "sku": "ACC-EXT-1947",
+    "name": "Bike Body Cover \u2014 Universal",
+    "price": 1395,
+    "stock": 148,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1041",
+    "sku": "OIL-1010",
+    "name": "Coolant 1L \u2014 Universal",
+    "price": 520,
+    "stock": 137,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1156",
+    "sku": "CHN-1054",
+    "name": "Chain Sprocket Kit \u2014 Bajaj Pulsar NS200",
+    "price": 3540,
+    "stock": 424,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1115",
+    "sku": "BRK-1043",
+    "name": "Brake Disc Rotor \u2014 Hero Splendor Plus",
+    "price": 1495,
+    "stock": 11,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1089",
+    "sku": "ELE-1075",
+    "name": "Battery \u2014 Hero Splendor Plus",
+    "price": 1660,
+    "stock": 527,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1027",
+    "sku": "CHN-1010",
+    "name": "Chain Sprocket Kit \u2014 Suzuki Gixxer",
+    "price": 3985,
+    "stock": 175,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1143",
+    "sku": "GRP-1041",
+    "name": "Foot Peg Set \u2014 Hero Splendor Plus",
+    "price": 1165,
+    "stock": 412,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1037",
+    "sku": "BRK-1039",
+    "name": "Brake Disc Rotor \u2014 Yamaha R15",
+    "price": 2750,
+    "stock": 3,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1099",
+    "sku": "CHN-1025",
+    "name": "Clutch Cable \u2014 Royal Enfield Classic 350",
+    "price": 375,
+    "stock": 206,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1120",
+    "sku": "GER-1004",
+    "name": "Full Face Helmet \u2014 Universal",
+    "price": 2570,
+    "stock": 507,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1170",
+    "sku": "BDY-1098",
+    "name": "Crash Guard \u2014 Bajaj Pulsar 220F",
+    "price": 1840,
+    "stock": 137,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1154",
+    "sku": "ELE-1043",
+    "name": "Tail Light Assembly \u2014 Hero Splendor Plus",
+    "price": 1665,
+    "stock": 411,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1072",
+    "sku": "BDY-1023",
+    "name": "Crash Guard \u2014 Royal Enfield Meteor 350",
+    "price": 3600,
+    "stock": 0,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1140",
+    "sku": "ELE-1034",
+    "name": "Tail Light Assembly \u2014 Honda Hornet 2.0",
+    "price": 855,
+    "stock": 15,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1032",
+    "sku": "CHN-1004",
+    "name": "Chain Sprocket Kit \u2014 Yamaha R15",
+    "price": 3655,
+    "stock": 107,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1136",
+    "sku": "OIL-1009",
+    "name": "Coolant 1L \u2014 Universal",
+    "price": 590,
+    "stock": 112,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1025",
+    "sku": "ELE-1105",
+    "name": "Tail Light Assembly \u2014 Hero Splendor Plus",
+    "price": 730,
+    "stock": 100,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1062",
+    "sku": "ELE-1093",
+    "name": "Horn Set \u2014 KTM Duke 200",
+    "price": 1385,
+    "stock": 0,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1177",
+    "sku": "GRP-EXT-9205",
+    "name": "Handle Grip Set \u2014 Suzuki Gixxer",
+    "price": 1200,
+    "stock": 48,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1168",
+    "sku": "ELE-1056",
+    "name": "Horn Set \u2014 Honda Hornet 2.0",
+    "price": 2030,
+    "stock": 59,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1091",
+    "sku": "FIL-1033",
+    "name": "Fuel Filter \u2014 TVS Apache RTR 200",
+    "price": 420,
+    "stock": 178,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1088",
+    "sku": "ELE-1076",
+    "name": "Battery \u2014 Honda Hornet 2.0",
+    "price": 1175,
+    "stock": 7,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1118",
+    "sku": "BDY-1097",
+    "name": "Side Mirror Set \u2014 Yamaha FZ",
+    "price": 2110,
+    "stock": 199,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1045",
+    "sku": "GRP-1011",
+    "name": "Handle Grip Set \u2014 Yamaha FZ",
+    "price": 990,
+    "stock": 323,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1167",
+    "sku": "GRP-1028",
+    "name": "Foot Peg Set (OEM) \u2014 Royal Enfield Himalayan",
+    "price": 1165,
+    "stock": 208,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1097",
+    "sku": "ELE-1055",
+    "name": "Horn Set \u2014 Royal Enfield Meteor 350",
+    "price": 1355,
+    "stock": 179,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1160",
+    "sku": "ELE-1094",
+    "name": "LED Headlight \u2014 Royal Enfield Classic 350",
+    "price": 1875,
+    "stock": 303,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1172",
+    "sku": "ELE-EXT-2195",
+    "name": "Tail Light Assembly \u2014 Honda CB Shine",
+    "price": 1665,
+    "stock": 117,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1198",
+    "sku": "GER-EXT-8509",
+    "name": "Full Face Helmet \u2014 Universal",
+    "price": 7295,
+    "stock": 35,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1054",
+    "sku": "CHN-1012",
+    "name": "Chain Sprocket Kit \u2014 Honda Unicorn",
+    "price": 3725,
+    "stock": 268,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1133",
+    "sku": "BDY-1063",
+    "name": "Windscreen Visor \u2014 Bajaj Pulsar 150",
+    "price": 2860,
+    "stock": 1,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1199",
+    "sku": "OIL-EXT-7488",
+    "name": "Coolant 1L \u2014 Universal",
+    "price": 325,
+    "stock": 163,
+    "category": "Engine & Oils"
+  },
+  {
+    "external_id": "CH-1016",
+    "sku": "ELE-1108",
+    "name": "LED Headlight \u2014 Bajaj Dominar 400",
+    "price": 1960,
+    "stock": 6,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1121",
+    "sku": "BDY-1081",
+    "name": "Crash Guard \u2014 Bajaj Pulsar NS200",
+    "price": 1875,
+    "stock": 180,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1129",
+    "sku": "BDY-1073",
+    "name": "Tail Tidy \u2014 TVS Apache RTR 160",
+    "price": 2245,
+    "stock": 15,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1146",
+    "sku": "BDY-1064",
+    "name": "Windscreen Visor \u2014 Royal Enfield Himalayan",
+    "price": 2125,
+    "stock": 137,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1053",
+    "sku": "FIL-1018",
+    "name": "Oil Filter \u2014 KTM Duke 390",
+    "price": 145,
+    "stock": 264,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1106",
+    "sku": "CHN-1049",
+    "name": "Clutch Plate Set \u2014 Bajaj Dominar 400",
+    "price": 2525,
+    "stock": 362,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1039",
+    "sku": "GRP-1024",
+    "name": "Bar End Set \u2014 Royal Enfield Himalayan",
+    "price": 670,
+    "stock": 449,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1108",
+    "sku": "CAR-1006",
+    "name": "Car Floor Mat Set \u2014 Mahindra Thar",
+    "price": 3270,
+    "stock": 296,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1081",
+    "sku": "ELE-1110",
+    "name": "Tail Light Assembly (OEM) \u2014 Yamaha MT-15",
+    "price": 2000,
+    "stock": 116,
+    "category": "Lighting & Electrical / Spares"
+  },
+  {
+    "external_id": "CH-1113",
+    "sku": "ELE-1015",
+    "name": "LED Indicator Set \u2014 Honda CB Shine",
+    "price": 405,
+    "stock": 8,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1180",
+    "sku": "ACC-EXT-1205",
+    "name": "Bungee Cord Set \u2014 Universal",
+    "price": 600,
+    "stock": 59,
+    "category": "Universal Accessories"
+  },
+  {
+    "external_id": "CH-1049",
+    "sku": "GRP-1069",
+    "name": "Handle Grip Set \u2014 Yamaha FZ",
+    "price": 575,
+    "stock": 2,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1176",
+    "sku": "GRP-EXT-0839",
+    "name": "Throttle Cable \u2014 Royal Enfield Himalayan",
+    "price": 530,
+    "stock": 71,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1147",
+    "sku": "GER-1016",
+    "name": "Balaclava \u2014 Universal",
+    "price": 810,
+    "stock": 0,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1009",
+    "sku": "ELE-1023",
+    "name": "LED Indicator Set \u2014 TVS Apache RTR 200",
+    "price": 760,
+    "stock": 187,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1063",
+    "sku": "GRP-1019",
+    "name": "Bar End Set \u2014 TVS Apache RTR 160",
+    "price": 670,
+    "stock": 164,
+    "category": "Controls & Grips"
+  },
+  {
+    "external_id": "CH-1038",
+    "sku": "CAR-1011",
+    "name": "Wiper Blade Set \u2014 Hyundai i20",
+    "price": 1920,
+    "stock": 117,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1098",
+    "sku": "CHN-1060",
+    "name": "Chain Sprocket Kit \u2014 TVS Apache RTR 200",
+    "price": 3255,
+    "stock": 338,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1159",
+    "sku": "BDY-1068",
+    "name": "Windscreen Visor \u2014 Hero Splendor Plus",
+    "price": 2505,
+    "stock": 109,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1135",
+    "sku": "CAR-1020",
+    "name": "Car Seat Cover Set \u2014 Hyundai Creta",
+    "price": 11070,
+    "stock": 450,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1044",
+    "sku": "BDY-1025",
+    "name": "Crash Guard \u2014 Hero Splendor Plus",
+    "price": 1280,
+    "stock": 332,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1123",
+    "sku": "BRK-1087",
+    "name": "Brake Lever \u2014 TVS Apache RTR 160",
+    "price": 1290,
+    "stock": 113,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1174",
+    "sku": "CHN-EXT-6607",
+    "name": "Chain Lube 400ml \u2014 Universal",
+    "price": 365,
+    "stock": 8,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1014",
+    "sku": "BRK-1028",
+    "name": "Brake Shoe Set \u2014 Hero Xtreme 160R",
+    "price": 235,
+    "stock": 358,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1059",
+    "sku": "ELE-1029",
+    "name": "Tail Light Assembly \u2014 TVS Apache RTR 160",
+    "price": 2425,
+    "stock": 0,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1148",
+    "sku": "BDY-1058",
+    "name": "Tail Tidy \u2014 Bajaj Pulsar 150",
+    "price": 2315,
+    "stock": 444,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1149",
+    "sku": "GER-1014",
+    "name": "Balaclava \u2014 Universal",
+    "price": 675,
+    "stock": 436,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1068",
+    "sku": "ELE-1106",
+    "name": "Tail Light Assembly \u2014 Bajaj Pulsar 150",
+    "price": 2385,
+    "stock": 128,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1181",
+    "sku": "BRK-EXT-8262",
+    "name": "Brake Shoe Set \u2014 Royal Enfield Himalayan",
+    "price": 665,
+    "stock": 145,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1153",
+    "sku": "BDY-1047",
+    "name": "Tank Pad \u2014 Bajaj Pulsar NS200",
+    "price": 445,
+    "stock": 15,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1007",
+    "sku": "ELE-1073",
+    "name": "Battery \u2014 Honda CB Shine",
+    "price": 2670,
+    "stock": 83,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1162",
+    "sku": "ELE-1027",
+    "name": "LED Indicator Set \u2014 Hero Xtreme 160R",
+    "price": 620,
+    "stock": 383,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1079",
+    "sku": "CHN-1018",
+    "name": "Drive Chain \u2014 Hero Splendor Plus",
+    "price": 1405,
+    "stock": 209,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1150",
+    "sku": "CHN-1029",
+    "name": "Clutch Cable (OEM) \u2014 Hero Xtreme 160R",
+    "price": 655,
+    "stock": 130,
+    "category": "Drivetrain / Spares"
+  },
+  {
+    "external_id": "CH-1107",
+    "sku": "ELE-1089",
+    "name": "LED Headlight \u2014 Yamaha FZ",
+    "price": 2035,
+    "stock": 222,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1029",
+    "sku": "ELE-1020",
+    "name": "LED Indicator Set \u2014 Royal Enfield Himalayan",
+    "price": 1780,
+    "stock": 84,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1173",
+    "sku": "FIL-EXT-5993",
+    "name": "Oil Filter \u2014 KTM Duke 200",
+    "price": 420,
+    "stock": 219,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1085",
+    "sku": "FIL-1012",
+    "name": "Oil Filter \u2014 Bajaj Pulsar 220F",
+    "price": 130,
+    "stock": 5,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1095",
+    "sku": "BRK-1017",
+    "name": "Brake Shoe Set \u2014 Royal Enfield Classic 350",
+    "price": 670,
+    "stock": 278,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1005",
+    "sku": "FIL-1034",
+    "name": "Fuel Filter \u2014 Yamaha FZ",
+    "price": 265,
+    "stock": 206,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1122",
+    "sku": "BRK-1041",
+    "name": "Brake Disc Rotor \u2014 Royal Enfield Meteor 350",
+    "price": 2365,
+    "stock": 421,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1191",
+    "sku": "CHN-EXT-9871",
+    "name": "Clutch Plate Set \u2014 Yamaha FZ",
+    "price": 2195,
+    "stock": 145,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1145",
+    "sku": "BDY-1021",
+    "name": "Crash Guard \u2014 Yamaha R15",
+    "price": 3500,
+    "stock": 457,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1182",
+    "sku": "BRK-EXT-7379",
+    "name": "Brake Fluid DOT4 500ml \u2014 Universal",
+    "price": 510,
+    "stock": 241,
+    "category": "Brakes"
+  },
+  {
+    "external_id": "CH-1126",
+    "sku": "ELE-1028",
+    "name": "LED Indicator Set \u2014 TVS Apache RTR 160",
+    "price": 380,
+    "stock": 131,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1137",
+    "sku": "FIL-1029",
+    "name": "Fuel Filter \u2014 Hero Xtreme 160R",
+    "price": 575,
+    "stock": 472,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1131",
+    "sku": "BDY-1091",
+    "name": "Tank Pad \u2014 Bajaj Pulsar NS200",
+    "price": 870,
+    "stock": 42,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1130",
+    "sku": "CAR-1016",
+    "name": "Wiper Blade Set \u2014 Kia Seltos",
+    "price": 1825,
+    "stock": 224,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1087",
+    "sku": "BDY-1008",
+    "name": "Side Mirror Set \u2014 Royal Enfield Himalayan",
+    "price": 1000,
+    "stock": 379,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1152",
+    "sku": "CAR-1009",
+    "name": "Wiper Blade Set \u2014 Maruti Swift",
+    "price": 2065,
+    "stock": 229,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1077",
+    "sku": "BDY-1001",
+    "name": "Side Mirror Set \u2014 Yamaha R15",
+    "price": 690,
+    "stock": 92,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1190",
+    "sku": "GER-EXT-2364",
+    "name": "Balaclava \u2014 Universal",
+    "price": 300,
+    "stock": 290,
+    "category": "Rider Gear"
+  },
+  {
+    "external_id": "CH-1158",
+    "sku": "TYR-1001",
+    "name": "Tubeless Tyre \u2014 KTM Duke 200",
+    "price": 1295,
+    "stock": 355,
+    "category": "Tyres & Tubes"
+  },
+  {
+    "external_id": "CH-1101",
+    "sku": "ELE-1092",
+    "name": "Spark Plug \u2014 Honda Hornet 2.0",
+    "price": 660,
+    "stock": 116,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1042",
+    "sku": "CHN-1021",
+    "name": "Drive Chain \u2014 KTM Duke 200",
+    "price": 1270,
+    "stock": 368,
+    "category": "Drivetrain"
+  },
+  {
+    "external_id": "CH-1082",
+    "sku": "BDY-1055",
+    "name": "Tail Tidy \u2014 Yamaha FZ",
+    "price": 1730,
+    "stock": 111,
+    "category": "Body & Styling"
+  },
+  {
+    "external_id": "CH-1157",
+    "sku": "CAR-1029",
+    "name": "Dashboard Camera \u2014 Tata Nexon",
+    "price": 13645,
+    "stock": 285,
+    "category": "Car Care & Accessories"
+  },
+  {
+    "external_id": "CH-1084",
+    "sku": "FIL-1022",
+    "name": "Oil Filter \u2014 Bajaj Pulsar NS200",
+    "price": 460,
+    "stock": 166,
+    "category": "Filters"
+  },
+  {
+    "external_id": "CH-1036",
+    "sku": "ELE-1007",
+    "name": "LED Headlight \u2014 Honda CB Shine",
+    "price": 4305,
+    "stock": 381,
+    "category": "Lighting & Electrical"
+  },
+  {
+    "external_id": "CH-1132",
+    "sku": "BDY-1075",
+    "name": "Windscreen Visor \u2014 KTM Duke 200",
+    "price": 1200,
+    "stock": 294,
+    "category": "Body & Styling"
+  }
+]
