@@ -442,8 +442,7 @@ AutoStore/
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
-├── DESIGN.md
-└── .env.example
+└──DESIGN.md
 ```
 
 ---
