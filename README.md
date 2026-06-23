@@ -30,9 +30,6 @@ The platform also includes a Channel Sync module that imports and updates produc
 
 ![Orders](screenshots/orders.png)
 
-## Order Details
-
-![Order Details](screenshots/order-details.png)
 
 ## Channel Sync
 
